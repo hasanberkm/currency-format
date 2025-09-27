@@ -1,0 +1,17 @@
+/vendor/
+composer.lock
+
+/.idea/
+/.vscode/
+.DS_Store
+Thumbs.db
+
+/node_modules/
+/npm-debug.log
+yarn.lock
+pnpm-lock.yaml
+
+.phpunit.result.cache
+
+.env
+.env.*
